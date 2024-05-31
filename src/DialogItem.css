@@ -1,0 +1,21 @@
+/* src/DialogItem.css */
+
+.dialog-item {
+    margin: 8px 0;
+    padding: 10px;
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .dialog-link {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    display: block; /* Makes the entire area clickable */
+  }
+  
+  .dialog-item:hover {
+    background-color: #eaeaea; /* Стиль для hover эффекта */
+  }
+  
